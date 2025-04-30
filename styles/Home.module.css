@@ -1,0 +1,36 @@
+
+.container {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title {
+  margin: 2rem;
+}
+
+.parallax {
+  height: 100vh;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  color: white;
+  text-shadow: 0 2px 5px rgba(0,0,0,0.7);
+}
+
+.tchavana {
+  background-image: url('/images/montagna.jpg');
+}
+
+.cellagrande {
+  background-image: url('/images/vigneti.jpg');
+}
+
+.risodoria {
+  background-image: url('/images/risaie.jpg');
+}
